@@ -5,6 +5,14 @@ using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
+/*
+ * Elijah Hodge
+ * CST - 250
+ * 07/12/2026
+ * Factorial Recursion
+ * Activity 3
+ */
+
 namespace FactorialRecursion.Services.BusinessLogicLayer
 {
     internal class FactorialLogic
